@@ -132,3 +132,24 @@ footer {
     font-size: 13px;
     color: #777;
 }
+.whatsapp-float {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    width: 56px;
+    height: 56px;
+    background-color: #c2185b; /* matches brand pink */
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 26px;
+    line-height: 56px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    z-index: 999;
+    text-decoration: none;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.whatsapp-float:hover {
+    transform: scale(1.08);
+    opacity: 0.9;
+}
