@@ -16,19 +16,6 @@ body {
     margin-bottom: 20px;
 }
 
-h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: 48px;
-    margin: 10px 0 0;
-    letter-spacing: 2px;
-}
-
-.designer {
-    font-size: 18px;
-    letter-spacing: 1px;
-    color: #c2185b;
-    margin-top: 6px;
-}
 
 /* CTA */
 .cta {
