@@ -63,7 +63,7 @@ body {
 }
 
 h2 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', Larken;
     font-size: 32px;
     margin-bottom: 25px;
 }
@@ -83,7 +83,7 @@ textarea {
     font-size: 14px;
     border-radius: 8px;
     border: 1px solid #ccc;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', Inter;
 }
 
 textarea {
